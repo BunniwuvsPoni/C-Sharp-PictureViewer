@@ -1,0 +1,10 @@
+E:\Repos\MyFirstCSharpApp\PictureViewer\bin\Debug\PictureViewer.exe.config
+E:\Repos\MyFirstCSharpApp\PictureViewer\bin\Debug\PictureViewer.exe
+E:\Repos\MyFirstCSharpApp\PictureViewer\bin\Debug\PictureViewer.pdb
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.exe
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.pdb
+E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.Form1.resources
