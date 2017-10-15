@@ -8,3 +8,13 @@ E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompi
 E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.exe
 E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.pdb
 E:\Repos\MyFirstCSharpApp\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+E:\Repos\TestCSharpApps\PictureViewer\bin\Debug\PictureViewer.exe.config
+E:\Repos\TestCSharpApps\PictureViewer\bin\Debug\PictureViewer.exe
+E:\Repos\TestCSharpApps\PictureViewer\bin\Debug\PictureViewer.pdb
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.exe
+E:\Repos\TestCSharpApps\PictureViewer\obj\Debug\PictureViewer.pdb
